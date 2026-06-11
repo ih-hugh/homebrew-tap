@@ -1,5 +1,5 @@
 class CmuxThemePicker < Formula
-  desc "Interactive theme picker for cmux/Ghostty — live preview, light/dark slot switching"
+  desc "Interactive theme picker for cmux/Ghostty with live preview"
   homepage "https://github.com/ih-hugh/cmux-theme-picker"
   url "https://github.com/ih-hugh/cmux-theme-picker/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "f4d82117e8b7fb183b948ed9c93cc87931c86ad53346da6ccf2c5283007c040d"
