@@ -1,8 +1,8 @@
 class CmuxThemePicker < Formula
   desc "Interactive theme picker for cmux/Ghostty with live preview"
   homepage "https://github.com/ih-hugh/cmux-theme-picker"
-  url "https://github.com/ih-hugh/cmux-theme-picker/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "f4d82117e8b7fb183b948ed9c93cc87931c86ad53346da6ccf2c5283007c040d"
+  url "https://github.com/ih-hugh/cmux-theme-picker/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "924adc26fc90c439a522059b041d90ef329fd54462dbde71a0e4c899a6ab02e5"
   head "https://github.com/ih-hugh/cmux-theme-picker.git", branch: "main"
 
   depends_on "fzf"
